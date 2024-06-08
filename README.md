@@ -1,5 +1,5 @@
-# Gabriel Caio
-Estudante de Ciência da Computação, buscando me desenvolver cada vez mais a trás de desafios e oportunidades.
+# Adriel Silva
+Estudante de Ciência da Computação na UEPB, buscando me desenvolver no mercado de trabalho e ganhar experiência na área.
 
 ## Conecte-se comigo
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">](https://www.linkedin.com/in/adriel-silva-163336274/)
